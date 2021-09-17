@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <!-- device trees -->
-  <project name="lenovo-sm8150/android_device_lenovo_sm8150-common" path="device/lenovo/sm8150-common" remote="github" revision="heart/lineage-18.1"/>
-  <project name="lenovo-sm8150/android_device_lenovo_zippo" path="device/lenovo/zippo" remote="github" revision="heart/lineage-18.1"/>
-  <project name="lenovo-sm8150/android_device_lenovo_heart" path="device/lenovo/heart" remote="github" revision="heart/lineage-18.1"/>
+  <project name="LineageOS/android_device_lenovo_sm8150-common" path="device/lenovo/sm8150-common" remote="github" revision="lineage-18.1"/>
+  <project name="LineageOS/android_device_lenovo_zippo" path="device/lenovo/zippo" remote="github" revision="lineage-18.1"/>
+  <project name="LineageOS/android_device_lenovo_heart" path="device/lenovo/heart" remote="github" revision="lineage-18.1"/>
 
   <!-- kernel -->
-  <project name="LineageOS/android_kernel_lenovo_sm8150" path="kernel/lenovo/sm8150" remote="github" revision="heart/lineage-18.1"/>
+  <project name="LineageOS/android_kernel_lenovo_sm8150" path="kernel/lenovo/sm8150" remote="github" revision="lineage-18.1"/>
 
   <!-- vendor -->
-  <project name="TheMuppets/proprietary_vendor_lenovo" path="vendor/lenovo" remote="github" revision="heart/lineage-18.1"/>
+  <project name="TheMuppets/proprietary_vendor_lenovo" path="vendor/lenovo" remote="github" revision="lineage-18.1"/>
 
 </manifest>
