@@ -5,7 +5,7 @@
 # if you want to build without using ccache, comment
 # the next 4 lines
 #export USE_CCACHE=1
-#export CCACHE_DIR=~/.ccache
+#export CCACHE_DIR=~/mnt/.ccache
 #export CCACHE_MAX_SIZE=150G
 #export CCACHE_EXEC=$(which ccache)
 #ccache -M $CCACHE_MAX_SIZE
