@@ -9,6 +9,7 @@
   <project name="LineageOS/android_kernel_lenovo_sm8150" path="kernel/lenovo/sm8150" remote="github" revision="lineage-20"/>
 
   <!-- vendor -->
-  <project name="TheMuppets/proprietary_vendor_lenovo" path="vendor/lenovo" remote="github" revision="lineage-20"/>
-
+  <project name="TheMuppets/proprietary_vendor_lenovo_sm8150-common" path="vendor/lenovo/sm8150-common" remote="github" revision="lineage-20"/>
+  <project name="TheMuppets/proprietary_vendor_lenovo_heart" path="vendor/lenovo/heart" remote="github" revision="lineage-20"/>
+  <project name="TheMuppets/proprietary_vendor_lenovo_zippo" path="vendor/lenovo/zippo" remote="github" revision="lineage-20"/>
 </manifest>
