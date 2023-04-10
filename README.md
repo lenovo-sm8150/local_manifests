@@ -12,7 +12,7 @@ Starting from zero:
 ---------
     mkdir -p ~/android/lineage-20
     cd ~/android/lineage-20
-    repo init -u git://github.com/LineageOS/android.git -b lineage-20
+    repo init -u git://github.com/LineageOS/android.git -b lineage-20 --git-lfs
     mkdir -p .repo/local_manifests
     curl https://raw.githubusercontent.com/lenovo-sm8150/local_manifests/lineage-20/lenovo.xml > .repo/local_manifests/lenovo.xml
     repo sync
